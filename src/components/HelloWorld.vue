@@ -5,6 +5,7 @@
       wrap
     >
       <v-flex xs12>
+
         <v-img
           :src="require('../assets/logo.svg')"
           class="my-3"
@@ -15,7 +16,7 @@
 
       <v-flex mb-4>
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome to Vuetify
+          Welcome to Vuetify haha
         </h1>
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
